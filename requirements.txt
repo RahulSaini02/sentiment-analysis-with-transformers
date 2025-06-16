@@ -1,0 +1,13 @@
+datasets
+gradio
+ipykernel
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
+seaborn
+scikit-learn
+torch
+tqdm
+transformers
